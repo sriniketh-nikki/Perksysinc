@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/react-gh-pages/static/media/client1.8ec53405.jfif"
   },
   {
-    "revision": "3d0ec57f40d62ba6a8e0d1857bb8f7d5",
-    "url": "/react-gh-pages/static/media/bootstrap-icons.3d0ec57f.woff"
-  },
-  {
     "revision": "a30fb81bd52143bcd4de2898422ac8b9",
     "url": "/react-gh-pages/static/media/bootstrap-icons.a30fb81b.woff2"
+  },
+  {
+    "revision": "3d0ec57f40d62ba6a8e0d1857bb8f7d5",
+    "url": "/react-gh-pages/static/media/bootstrap-icons.3d0ec57f.woff"
   },
   {
     "revision": "b2e2063e08a2a1589670925519c07257",
